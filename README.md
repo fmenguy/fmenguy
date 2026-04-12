@@ -8,29 +8,30 @@ Basé en France 🇫🇷 · Ingénieur système & réseau · Développeur web ·
 
 - **IT Administration** — Infrastructure email, réseaux professionnels, cybersécurité
 - **Développement web** — Jeux browser, outils IA, serveurs MCP
-- **IA** — Image, vidéo, prompting (portfolio : [wanda-aiart.org](https://wanda-aiart.org))
+- **IA** — Image, vidéo, prompting
+
+  [![Wanda sur SeaArt](https://fmenguy.fr/images/wanda-seaart.png)](https://www.seaart.ai/home?u_code=FDOJP29Z)
 - **YouTube** — Gameplay & city-builders sur la chaîne [@descloizite](https://www.youtube.com/@Descloizite)
 
 ---
 
 ## 🚀 Projets notables
 
-| Projet | Description | Stack |
-|--------|-------------|-------|
+| Projet                                           | Description                                  | Stack      |
+| ------------------------------------------------ | -------------------------------------------- | ---------- |
 | [ClaudeTube](https://github.com/fmenguy/ClaudeTube) | Serveur MCP pour connecter Claude à YouTube | TypeScript |
-| [Forge des Âges](https://fda.fmenguy.fr/) | Jeu de gestion navigateur | JavaScript |
-| [ODIA](https://fmenguy-site.pages.dev) | Détecteur d'images IA (modèle ONNX) | JavaScript |
-| [AIPrompt](https://aiprompt.fmenguy.fr) | Générateur de prompts IA | JavaScript |
-| [MenguyGen](https://image.fmenguy.fr) | Génération d'images & vidéos IA | JavaScript |
+| [Forge des Âges](https://fda.fmenguy.fr/)          | Jeu de gestion navigateur                    | JavaScript |
+| [ODIA](https://fmenguy.fr/outils/odia)              | Détecteur d'images IA (modèle ONNX)        | JavaScript |
+| [AIPrompt](https://aiprompt.fmenguy.fr)             | Générateur de prompts IA                   | JavaScript |
+| [MenguyGen](https://image.fmenguy.fr)               | Génération d'images & vidéos IA           | JavaScript |
 
 > La majorité de mes projets sont en dépôts privés. Démos & articles sur mon site 👇
 
 ---
 
-## 🌐 Site en cours de refonte
+## 🌐 Mon site
 
-Je migre actuellement depuis WordPress vers **Astro** — aperçu disponible ici :
-**[fmenguy-site.pages.dev](https://fmenguy-site.pages.dev/)** *(bientôt sur fmenguy.fr)*
+**[fmenguy.fr](https://fmenguy.fr)** — Blog tech, coin perso, histoires illustrées et outils.
 
 ---
 
@@ -47,7 +48,7 @@ Je migre actuellement depuis WordPress vers **Astro** — aperçu disponible ici
 
 ## 📬 Me retrouver
 
-[![Site](https://img.shields.io/badge/🌐_fmenguy.fr-000?style=flat)](https://fmenguy-site.pages.dev)
+[![Site](https://img.shields.io/badge/🌐_fmenguy.fr-000?style=flat)](https://fmenguy.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fmenguy-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/fmenguy/)
 [![YouTube](https://img.shields.io/badge/YouTube-descloizite-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@Descloizite)
 [![AI Art](https://img.shields.io/badge/🎨_wanda--aiart.org-8B5CF6?style=flat)](https://wanda-aiart.org)
