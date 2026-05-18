@@ -42,7 +42,6 @@ Basé en France 🇫🇷 · Ingénieur système & réseau · Développeur web ·
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
-![Claude](https://img.shields.io/badge/-Claude%20AI-D97757?style=flat&logo=anthropic&logoColor=fff)
 
 ---
 
