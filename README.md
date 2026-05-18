@@ -6,12 +6,12 @@ Basé en France 🇫🇷 · Ingénieur système & réseau · Développeur web ·
 
 ## 🔧 Ce que je fais
 
-- **IT Administration** — Infrastructure email, réseaux professionnels, cybersécurité
-- **Développement web** — Jeux browser, outils IA, serveurs MCP
-- **IA** — Image, vidéo, prompting
+- **IT Administration** : Infrastructure email, réseaux professionnels, cybersécurité
+- **Développement web** : Jeux browser, outils IA, serveurs MCP
+- **IA** : Image, vidéo, prompting
 
   [![Wanda sur SeaArt](https://fmenguy.fr/images/wanda-seaart.png)](https://www.seaart.ai/home?u_code=FDOJP29Z)
-- **YouTube** — Gameplay & city-builders sur la chaîne [@descloizite](https://www.youtube.com/@Descloizite)
+- **YouTube** : Gameplay & city-builders sur la chaîne [@descloizite](https://www.youtube.com/@Descloizite)
 
 ---
 
@@ -31,7 +31,7 @@ Basé en France 🇫🇷 · Ingénieur système & réseau · Développeur web ·
 
 ## 🌐 Mon site
 
-**[fmenguy.fr](https://fmenguy.fr)** — Blog tech, coin perso, histoires illustrées et outils.
+**[fmenguy.fr](https://fmenguy.fr)** : Blog tech, coin perso, histoires illustrées et outils.
 
 ---
 
