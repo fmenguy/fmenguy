@@ -1,6 +1,6 @@
 # Bienvenue sur le GitHub de François MENGUY
 
-Consultant DevSecOps chez Atos, en mission chez Orange depuis 2016. Basé en France.
+Accompagnement IA et DevSecOps chez Atos : j'aide les équipes à adopter l'IA, je mets des agents IA en production, et je suis Security Champion IAM. En mission chez Orange depuis 2016, basé à Caen, en Normandie.
 
 IA, sécurité, réseaux et Kubernetes au quotidien. Romans illustrés, images générées et jeux web le reste du temps.
 
@@ -8,9 +8,9 @@ IA, sécurité, réseaux et Kubernetes au quotidien. Romans illustrés, images g
 
 ## Ce que je fais
 
-- **DevSecOps** : GitLab CI/CD, Kubernetes, infrastructure, sécurité opérationnelle
+- **DevSecOps** : GitLab CI/CD, Kubernetes, infrastructure, sécurité opérationnelle, gestion des identités et des accès (IAM)
 - **IA appliquée** : agents autonomes en production, serveurs MCP, pipelines de génération de contenu
-- **Web** : sites statiques Astro déployés sur Cloudflare Pages, jeux navigateur
+- **Web** : sites statiques Astro hébergés chez Cloudflare (Pages et Workers), jeux navigateur
 - **Écriture** : deux romans illustrés, écrits et mis en images avec l'IA
 - **Vidéo** : gameplay et city-builders sur [@Descloizite](https://www.youtube.com/@Descloizite), expérimentations tech sur [@fmenguy](https://www.youtube.com/@fmenguy)
 
@@ -26,34 +26,31 @@ Deux flux hebdomadaires produits par des pipelines d'agents Claude qui cherchent
 
 [fmenguy.fr/blog/veille](https://fmenguy.fr/blog/veille/)
 
-### X4: Foundations, le jeu du moment
+### Tout mon travail sur l'IA
 
-Un espace complet dédié au jeu : carte interactive de l'univers et de ses 150 secteurs, planificateur de station avec bilan des ressources, suivi public de ma partie et de sa rentabilité, lore de la saga, vaisseaux abandonnés à retrouver.
+Une seule porte d'entrée, en trois temps. Comprendre : l'IA sans jargon, un parcours de formation dans l'ordre, la méthode pour bien travailler avec. Construire : ma méthode pour développer avec des agents (un pilote qui cadre, un développeur qui livre, des tests qui tranchent), avec les chiffres réels de mon atelier. Aller plus loin : audit IA d'entreprise avec volet AI Act, distillation et fine-tuning, robotique et apprentissage par renforcement.
 
-[fmenguy.fr/x4](https://fmenguy.fr/x4/)
+[fmenguy.fr/ia](https://fmenguy.fr/ia) · [Développer avec des agents](https://fmenguy.fr/ia/agentique)
+
+### Strates
+
+Jeu de dieu voxel en Three.js, le chantier qui sert de terrain à ma méthode agentique. Une colonie de colons nommés traverse sept âges, de la pierre jusqu'à l'espace : on ne joue pas des unités, on regarde vivre des gens dont on connaît le prénom, la famille et le métier. Les sept âges sont désormais atteignables depuis une partie neuve, jusqu'au lancement du premier satellite. Une démo tourne dans le navigateur, la version complète se prépare pour Steam en accès anticipé, visé vers juin 2027.
+
+[strates.fmenguy.fr](https://strates.fmenguy.fr/)
 
 ### L'Aventure des Sœurs Elfes, Tome 2
 
-Le Tome 1 est terminé, le Tome 2 est en cours de rédaction : les 13 premiers chapitres sont en ligne, illustrés image par image. On peut aussi discuter directement avec Sylvie, l'héroïne, qui ne connaît que ce qu'elle a vécu et répond sans sortir de son monde.
+Le Tome 1 est terminé, le Tome 2 est en cours de rédaction : les 14 premiers chapitres sont en ligne, illustrés image par image. Tout le site se lit aussi en anglais.
 
-[elfes.fmenguy.fr/tome2](https://elfes.fmenguy.fr/tome2/) · [Parler à Sylvie](https://elfes.fmenguy.fr/tome2/personnages/#parler-a-sylvie)
+[elfes.fmenguy.fr/tome2](https://elfes.fmenguy.fr/tome2/) · [English version](https://elfes.fmenguy.fr/en/)
 
 ### Arcade FM
 
-Le hub de mes jeux navigateur, deux chantiers en tête d'affiche :
+Le hub de mes jeux navigateur. À la une, Strates et **Bathyrêve**, un nouveau jeu de construction de cité sous-marine (oxygène, nourriture, eau, énergie, exploration) dont la démo est jouable en ligne. **Achrogemme**, duel de cartes tiré du roman des Sœurs Elfes, est terminé en v1.0.
 
-- **Strates**, jeu de dieu voxel en Three.js. Une colonie de colons nommés traverse huit âges de civilisation, de la pierre jusqu'à l'espace. Âges I à IV jouables, vie sociale des colons livrée, âge V industriel en chantier.
-- **Achrogemme**, duel de cartes tiré du roman des Sœurs Elfes. Terminé, en v1.0.
+Et aussi Forge des Âges, Orbique, Aelindra, Eryndor, Zentel, le Jeu de la Vie et EcoSim.
 
-Et aussi Forge des Âges, Orbique, Aelindra, Eryndor et quelques expériences plus courtes.
-
-[jeux.fmenguy.fr](https://jeux.fmenguy.fr/)
-
-### Bookmarks
-
-Les outils, sites et dépôts que j'utilise vraiment au quotidien : IA, OSINT, sécurité, développement, réseau. Chaque fiche explique à quoi sert l'outil et pourquoi il est dans ma boîte à outils. Recherche, filtres par thème, disponible en quatre langues.
-
-[fmenguy.fr/bookmarks](https://fmenguy.fr/bookmarks)
+[jeux.fmenguy.fr](https://jeux.fmenguy.fr/) · [bathyreve.fmenguy.fr](https://bathyreve.fmenguy.fr/)
 
 ### Le cabanon
 
@@ -63,15 +60,15 @@ Tout ce qui n'est pas tech atterrit ici : la cuisine avec son propre sous-domain
 
 ### Le coin perso
 
-Repensé de fond en comble : astronomie et photos au télescope, Fire Emblem Heroes, jeux Ankama, cinémathèque, et l'entrée vers l'espace X4.
+Astronomie et photos au télescope, Fire Emblem Heroes, jeux Ankama, coin TV, mon setup, et l'espace X4: Foundations : carte interactive de l'univers et de ses 150 secteurs, planificateur de station, carnet de bord public de ma partie.
 
-[fmenguy.fr/coin-perso](https://fmenguy.fr/coin-perso/)
+[fmenguy.fr/coin-perso](https://fmenguy.fr/coin-perso/) · [fmenguy.fr/x4](https://fmenguy.fr/x4/)
 
 ---
 
 ## Mon site
 
-**[fmenguy.fr](https://fmenguy.fr)** : le blog technique, les dossiers de vulgarisation ([l'IA sans jargon](https://fmenguy.fr/ia-sans-jargon), [bien travailler avec l'IA](https://fmenguy.fr/methode-ia), [les agents IA en action](https://fmenguy.fr/agents-en-action)), les outils et la transparence sur le site lui-même (scores Lighthouse publiés, changelog complet).
+**[fmenguy.fr](https://fmenguy.fr)** : le blog technique, les dossiers de vulgarisation ([l'IA sans jargon](https://fmenguy.fr/ia-sans-jargon), [bien travailler avec l'IA](https://fmenguy.fr/methode-ia), [les agents IA en action](https://fmenguy.fr/agents-en-action)), les outils et la transparence sur le site lui-même (scores Lighthouse publiés, coûts du site détaillés, changelog complet). Sans publicité ni contenu payant.
 
 La majorité de mes dépôts sont privés. Les démos et les articles sont sur le site.
 
