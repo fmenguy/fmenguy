@@ -55,11 +55,11 @@ La plupart de mes dépôts sont privés : leur contenu ne se voit pas, mais leur
 | août 2026 | 233 |
 | sept. 2026 | 319 |
 | oct. 2026 | 760 |
-| nov. 2026 | 96 |
+| nov. 2026 | 97 |
 
 </details>
 
-**2 968 commits en douze mois**, dont la plupart dans des dépôts privés :
+**2 969 commits en douze mois**, dont la plupart dans des dépôts privés :
 
 | Projet | Dépôt | Commits (12 mois) | 30 derniers jours | Dernier commit |
 |---|---|---:|---:|---|
@@ -69,9 +69,9 @@ La plupart de mes dépôts sont privés : leur contenu ne se voit pas, mais leur
 | [Les Sœurs Elfes](https://elfes.fmenguy.fr/) | privé | 118 | 12 | 27/10/2026 |
 | [Wanda AI Art](https://wanda-aiart.org/) | privé | 118 | 2 | 12/10/2026 |
 | [Cuisine](https://cuisine.fmenguy.fr/) | privé | 26 | 1 | 22/10/2026 |
+| [fmenguy](https://github.com/fmenguy/fmenguy) | public | 9 | 2 | 03/11/2026 |
 | [Bathyrêve](https://bathyreve.fmenguy.fr/) | privé | 8 | 4 | 06/10/2026 |
 | [ClaudeTube](https://github.com/fmenguy/ClaudeTube) | public | 8 | 0 | 02/04/2026 |
-| [fmenguy](https://github.com/fmenguy/fmenguy) | public | 8 | 1 | 01/11/2026 |
 | [Veille multi-agents](https://github.com/fmenguy/veille-auto-multi-agent) | public | 4 | 0 | 22/05/2026 |
 | [mcp-pilotage](https://github.com/fmenguy/mcp-pilotage) | public | 2 | 2 | 03/11/2026 |
 | [Générateur de prompt](https://github.com/fmenguy/prompt) | public | 2 | 1 | 03/11/2026 |
@@ -87,7 +87,7 @@ La plupart de mes dépôts sont privés : leur contenu ne se voit pas, mais leur
 
 | Langage | Part du code |
 |---|---:|
-| JavaScript | 39,2 % |
+| JavaScript | 39,3 % |
 | HTML | 26,1 % |
 | Astro | 16,5 % |
 | TypeScript | 8 % |
