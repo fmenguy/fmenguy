@@ -63,14 +63,14 @@ La plupart de mes dépôts sont privés : leur contenu ne se voit pas, mais leur
 
 | Projet | Dépôt | Commits (12 mois) | 30 derniers jours | Dernier commit |
 |---|---|---:|---:|---|
-| [Strates](https://strates.fmenguy.fr/) | privé | 1 619 | 458 | 03/11/2026 |
+| [Strates](https://strates.fmenguy.fr/) | privé | 1 619 | 377 | 03/11/2026 |
 | [fmenguy.fr](https://fmenguy.fr/) | privé | 420 | 75 | 03/11/2026 |
 | [Arcade FM](https://github.com/fmenguy/jeux-fmenguy) | public | 139 | 7 | 03/11/2026 |
 | [Les Sœurs Elfes](https://elfes.fmenguy.fr/) | privé | 118 | 12 | 27/10/2026 |
 | [Wanda AI Art](https://wanda-aiart.org/) | privé | 118 | 2 | 12/10/2026 |
 | [Cuisine](https://cuisine.fmenguy.fr/) | privé | 26 | 1 | 22/10/2026 |
 | [fmenguy](https://github.com/fmenguy/fmenguy) | public | 9 | 2 | 03/11/2026 |
-| [Bathyrêve](https://bathyreve.fmenguy.fr/) | privé | 8 | 1 | 06/10/2026 |
+| [Bathyrêve](https://bathyreve.fmenguy.fr/) | privé | 8 | 0 | 06/10/2026 |
 | [ClaudeTube](https://github.com/fmenguy/ClaudeTube) | public | 8 | 0 | 02/04/2026 |
 | [Veille multi-agents](https://github.com/fmenguy/veille-auto-multi-agent) | public | 4 | 0 | 22/05/2026 |
 | [mcp-pilotage](https://github.com/fmenguy/mcp-pilotage) | public | 2 | 2 | 03/11/2026 |
@@ -99,7 +99,7 @@ La plupart de mes dépôts sont privés : leur contenu ne se voit pas, mais leur
 
 </details>
 
-<sub>Calculé chaque jour par [une GitHub Action](.github/workflows/activite.yml) avec un jeton en lecture seule. Dernière mise à jour : 04/11/2026.</sub>
+<sub>Calculé chaque jour par [une GitHub Action](.github/workflows/activite.yml) avec un jeton en lecture seule. Dernière mise à jour : 05/11/2026.</sub>
 <!-- ACTIVITE:FIN -->
 
 <picture>
