@@ -55,16 +55,16 @@ La plupart de mes dépôts sont privés : leur contenu ne se voit pas, mais leur
 | août 2026 | 233 |
 | sept. 2026 | 319 |
 | oct. 2026 | 760 |
-| nov. 2026 | 111 |
+| nov. 2026 | 142 |
 
 </details>
 
-**2 983 commits en douze mois**, dont la plupart dans des dépôts privés :
+**3 014 commits en douze mois**, dont la plupart dans des dépôts privés :
 
 | Projet | Dépôt | Commits (12 mois) | 30 derniers jours | Dernier commit |
 |---|---|---:|---:|---|
-| [Strates](https://strates.fmenguy.fr/) | privé | 1 619 | 332 | 03/11/2026 |
-| [fmenguy.fr](https://fmenguy.fr/) | privé | 424 | 79 | 06/11/2026 |
+| [Strates](https://strates.fmenguy.fr/) | privé | 1 645 | 331 | 08/11/2026 |
+| [fmenguy.fr](https://fmenguy.fr/) | privé | 429 | 84 | 08/11/2026 |
 | [Arcade FM](https://github.com/fmenguy/jeux-fmenguy) | public | 139 | 7 | 03/11/2026 |
 | [Les Sœurs Elfes](https://elfes.fmenguy.fr/) | privé | 118 | 12 | 27/10/2026 |
 | [Wanda AI Art](https://wanda-aiart.org/) | privé | 118 | 2 | 12/10/2026 |
@@ -87,19 +87,19 @@ La plupart de mes dépôts sont privés : leur contenu ne se voit pas, mais leur
 
 | Langage | Part du code |
 |---|---:|
-| JavaScript | 38,6 % |
-| HTML | 25,6 % |
-| Astro | 16,2 % |
-| TypeScript | 7,9 % |
-| CSS | 4,8 % |
-| Python | 4,6 % |
-| Kotlin | 1,8 % |
+| JavaScript | 39,6 % |
+| HTML | 25,3 % |
+| Astro | 15,9 % |
+| TypeScript | 7,8 % |
+| CSS | 4,7 % |
+| Python | 4,5 % |
+| Kotlin | 1,7 % |
 | Shell | 0,2 % |
 | Autres | 0,2 % |
 
 </details>
 
-<sub>Calculé chaque jour par [une GitHub Action](.github/workflows/activite.yml) avec un jeton en lecture seule. Dernière mise à jour : 07/11/2026.</sub>
+<sub>Calculé chaque jour par [une GitHub Action](.github/workflows/activite.yml) avec un jeton en lecture seule. Dernière mise à jour : 08/11/2026.</sub>
 <!-- ACTIVITE:FIN -->
 
 <picture>
