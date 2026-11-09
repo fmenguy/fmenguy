@@ -54,28 +54,28 @@ La plupart de mes dépôts sont privés : leur contenu ne se voit pas, mais leur
 | juil. 2026 | 244 |
 | août 2026 | 233 |
 | sept. 2026 | 319 |
-| oct. 2026 | 760 |
-| nov. 2026 | 142 |
+| oct. 2026 | 761 |
+| nov. 2026 | 217 |
 
 </details>
 
-**3 014 commits en douze mois**, dont la plupart dans des dépôts privés :
+**3 089 commits en douze mois**, dont la plupart dans des dépôts privés :
 
 | Projet | Dépôt | Commits (12 mois) | 30 derniers jours | Dernier commit |
 |---|---|---:|---:|---|
-| [Strates](https://strates.fmenguy.fr/) | privé | 1 645 | 331 | 08/11/2026 |
-| [fmenguy.fr](https://fmenguy.fr/) | privé | 429 | 84 | 08/11/2026 |
-| [Arcade FM](https://github.com/fmenguy/jeux-fmenguy) | public | 139 | 7 | 03/11/2026 |
-| [Les Sœurs Elfes](https://elfes.fmenguy.fr/) | privé | 118 | 12 | 27/10/2026 |
+| [Strates](https://strates.fmenguy.fr/) | privé | 1 689 | 374 | 09/11/2026 |
+| [fmenguy.fr](https://fmenguy.fr/) | privé | 445 | 100 | 09/11/2026 |
+| [Arcade FM](https://github.com/fmenguy/jeux-fmenguy) | public | 140 | 8 | 09/11/2026 |
+| [Les Sœurs Elfes](https://elfes.fmenguy.fr/) | privé | 119 | 13 | 09/11/2026 |
 | [Wanda AI Art](https://wanda-aiart.org/) | privé | 118 | 2 | 12/10/2026 |
-| [Cuisine](https://cuisine.fmenguy.fr/) | privé | 26 | 1 | 22/10/2026 |
+| [Cuisine](https://cuisine.fmenguy.fr/) | privé | 28 | 3 | 09/11/2026 |
+| [Bathyrêve](https://bathyreve.fmenguy.fr/) | privé | 9 | 1 | 09/11/2026 |
 | [fmenguy](https://github.com/fmenguy/fmenguy) | public | 9 | 2 | 03/11/2026 |
-| [Bathyrêve](https://bathyreve.fmenguy.fr/) | privé | 8 | 0 | 06/10/2026 |
 | [ClaudeTube](https://github.com/fmenguy/ClaudeTube) | public | 8 | 0 | 02/04/2026 |
 | [Veille multi-agents](https://github.com/fmenguy/veille-auto-multi-agent) | public | 4 | 0 | 22/05/2026 |
 | [mcp-pilotage](https://github.com/fmenguy/mcp-pilotage) | public | 2 | 2 | 03/11/2026 |
 | [Générateur de prompt](https://github.com/fmenguy/prompt) | public | 2 | 1 | 03/11/2026 |
-| 12 autres projets | privés | 506 | 77 | 06/11/2026 |
+| 13 autres projets | privés | 516 | 87 | 09/11/2026 |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="stats/langages-sombre.svg">
@@ -87,19 +87,19 @@ La plupart de mes dépôts sont privés : leur contenu ne se voit pas, mais leur
 
 | Langage | Part du code |
 |---|---:|
-| JavaScript | 39,6 % |
-| HTML | 25,3 % |
-| Astro | 15,9 % |
-| TypeScript | 7,8 % |
-| CSS | 4,7 % |
-| Python | 4,5 % |
+| JavaScript | 40,2 % |
+| HTML | 25,1 % |
+| Astro | 15,6 % |
+| TypeScript | 7,7 % |
+| Python | 4,7 % |
+| CSS | 4,6 % |
 | Kotlin | 1,7 % |
 | Shell | 0,2 % |
 | Autres | 0,2 % |
 
 </details>
 
-<sub>Calculé chaque jour par [une GitHub Action](.github/workflows/activite.yml) avec un jeton en lecture seule. Dernière mise à jour : 08/11/2026.</sub>
+<sub>Calculé chaque jour par [une GitHub Action](.github/workflows/activite.yml) avec un jeton en lecture seule. Dernière mise à jour : 09/11/2026.</sub>
 <!-- ACTIVITE:FIN -->
 
 <picture>
