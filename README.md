@@ -184,16 +184,16 @@ It all comes together on [fmenguy.fr/ia](https://fmenguy.fr/ia): understand, bui
 | août 2026 | 233 |
 | sept. 2026 | 319 |
 | oct. 2026 | 761 |
-| nov. 2026 | 302 |
+| nov. 2026 | 349 |
 
 </details>
 
-**3 174 commits en douze mois**, dont la plupart dans des dépôts privés :
+**3 220 commits en douze mois**, dont la plupart dans des dépôts privés :
 
 | Projet | Dépôt | Commits (12 mois) | 30 derniers jours | Dernier commit |
 |---|---|---:|---:|---|
-| [Strates](https://strates.fmenguy.fr/) | privé | 1 749 | 357 | 11/11/2026 |
-| [fmenguy.fr](https://fmenguy.fr/) | privé | 448 | 97 | 09/11/2026 |
+| [Strates](https://strates.fmenguy.fr/) | privé | 1 761 | 343 | 12/11/2026 |
+| [fmenguy.fr](https://fmenguy.fr/) | privé | 449 | 98 | 12/11/2026 |
 | [Arcade FM](https://github.com/fmenguy/jeux-fmenguy) | public | 143 | 7 | 11/11/2026 |
 | [Les Sœurs Elfes](https://elfes.fmenguy.fr/) | privé | 119 | 13 | 09/11/2026 |
 | [Wanda AI Art](https://wanda-aiart.org/) | privé | 118 | 0 | 12/10/2026 |
@@ -205,7 +205,7 @@ It all comes together on [fmenguy.fr/ia](https://fmenguy.fr/ia): understand, bui
 | [Veille multi-agents](https://github.com/fmenguy/veille-auto-multi-agent) | public | 6 | 2 | 09/11/2026 |
 | [mcp-pilotage](https://github.com/fmenguy/mcp-pilotage) | public | 5 | 5 | 09/11/2026 |
 | [Générateur de prompt](https://github.com/fmenguy/prompt) | public | 5 | 4 | 09/11/2026 |
-| 13 autres projets | privés | 483 | 92 | 09/11/2026 |
+| 14 autres projets | privés | 516 | 123 | 12/11/2026 |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="stats/langages-sombre.svg">
@@ -217,19 +217,19 @@ It all comes together on [fmenguy.fr/ia](https://fmenguy.fr/ia): understand, bui
 
 | Langage | Part du code |
 |---|---:|
-| JavaScript | 41,3 % |
-| HTML | 24,6 % |
-| Astro | 15,2 % |
-| TypeScript | 7,7 % |
-| CSS | 4,6 % |
-| Python | 4,6 % |
+| JavaScript | 40,4 % |
+| HTML | 24 % |
+| Astro | 15 % |
+| TypeScript | 7,8 % |
+| CSS | 4,5 % |
+| Python | 4,5 % |
+| C# | 1,7 % |
 | Kotlin | 1,6 % |
-| Shell | 0,2 % |
-| Autres | 0,2 % |
+| Autres | 0,4 % |
 
 </details>
 
-<sub>Calculé chaque jour par [une GitHub Action](.github/workflows/activite.yml) avec un jeton en lecture seule. Dernière mise à jour : 11/11/2026.</sub>
+<sub>Calculé chaque jour par [une GitHub Action](.github/workflows/activite.yml) avec un jeton en lecture seule. Dernière mise à jour : 12/11/2026.</sub>
 <!-- ACTIVITE:FIN -->
 
 <picture>
