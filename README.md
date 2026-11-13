@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://fmenguy.fr"><img src="https://img.shields.io/badge/fmenguy.fr-000?style=flat&logo=astro&logoColor=fff" alt="Site fmenguy.fr"></a>
   <a href="https://www.linkedin.com/in/fmenguy/"><img src="https://img.shields.io/badge/LinkedIn-fmenguy-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://orcid.org/0009-0001-7625-4571"><img src="https://img.shields.io/badge/ORCID-0009--0001--7625--4571-A6CE39?style=flat&logo=orcid&logoColor=fff" alt="ORCID 0009-0001-7625-4571"></a>
   <a href="https://www.youtube.com/@fmenguy"><img src="https://img.shields.io/badge/YouTube-fmenguy-FF0000?style=flat&logo=youtube" alt="YouTube fmenguy"></a>
   <a href="https://www.youtube.com/@Descloizite"><img src="https://img.shields.io/badge/YouTube-Descloizite-FF0000?style=flat&logo=youtube" alt="YouTube Descloizite"></a>
   <a href="https://wanda-aiart.org"><img src="https://img.shields.io/badge/wanda--aiart.org-8B5CF6?style=flat" alt="Wanda AI Art"></a>
@@ -44,6 +45,7 @@ La plupart de mes dépôts sont privés : leur contenu ne se voit pas, mais leur
 - **Une veille écrite par des agents** : deux flux hebdomadaires produits par des pipelines d'agents Claude qui cherchent, trient, rédigent et publient seuls, sans retouche. [fmenguy.fr/blog/veille](https://fmenguy.fr/blog/veille/) · [code](https://github.com/fmenguy/veille-auto-multi-agent)
 - **Serveurs MCP** : [mcp-pilotage](https://github.com/fmenguy/mcp-pilotage) donne à un agent la carte de tous mes dépôts, un autre pilote ma chaîne de génération d'images (FastAPI, ComfyUI sur GPU loués).
 - **Écrire et illustrer** : L'Aventure des Sœurs Elfes, illustrée image par image avec ma propre chaîne de génération.
+- **Recherche** : des notes et des sujets de recherche au format article scientifique, en français et en anglais (filigranes de texte, fiabilité d'une veille autonome, traçabilité des modèles, RAG, escalade), archivés sur Zenodo avec un DOI. [fmenguy.fr/recherche](https://fmenguy.fr/recherche/) · [ORCID](https://orcid.org/0009-0001-7625-4571)
 
 Tout est rassemblé sur [fmenguy.fr/ia](https://fmenguy.fr/ia) : comprendre, construire, aller plus loin (audit IA d'entreprise, distillation et fine-tuning, robotique et apprentissage par renforcement).
 
@@ -110,6 +112,7 @@ Most of my repositories are private: you can't see their content, but you can se
 - **A tech watch written by agents**: two weekly feeds produced by pipelines of Claude agents that search, sort, write and publish on their own, with no human edits. [fmenguy.fr/blog/veille](https://fmenguy.fr/blog/veille/) · [code](https://github.com/fmenguy/veille-auto-multi-agent)
 - **MCP servers**: [mcp-pilotage](https://github.com/fmenguy/mcp-pilotage) gives an agent a map of all my repositories, another one drives my image generation pipeline (FastAPI, ComfyUI on rented GPUs).
 - **Writing and illustrating**: L'Aventure des Sœurs Elfes, illustrated image by image with my own generation pipeline.
+- **Research**: research notes and research proposals written as scientific papers, in French and English (text watermarking, reliability of an autonomous news pipeline, AI model traceability, RAG, climbing), archived on Zenodo with a DOI. [fmenguy.fr/research](https://fmenguy.fr/research/) · [ORCID](https://orcid.org/0009-0001-7625-4571)
 
 It all comes together on [fmenguy.fr/ia](https://fmenguy.fr/ia): understand, build, go further (AI audits for companies, distillation and fine-tuning, robotics and reinforcement learning).
 
