@@ -16,6 +16,7 @@
   <a href="https://www.youtube.com/@fmenguy"><img src="https://img.shields.io/badge/YouTube-fmenguy-FF0000?style=flat&logo=youtube" alt="YouTube fmenguy"></a>
   <a href="https://www.youtube.com/@Descloizite"><img src="https://img.shields.io/badge/YouTube-Descloizite-FF0000?style=flat&logo=youtube" alt="YouTube Descloizite"></a>
   <a href="https://wanda-aiart.org"><img src="https://img.shields.io/badge/wanda--aiart.org-8B5CF6?style=flat" alt="Wanda AI Art"></a>
+  <a href="https://www.seaart.ai/user/531aa6f7e28e2ad661b3c20b32ff46f7?u_code=FDOJP29Z"><img src="https://img.shields.io/badge/SeaArt-Wanda-0EA5E9?style=flat" alt="Wanda sur SeaArt (Wanda on SeaArt)"></a>
 </p>
 
 ---
@@ -45,6 +46,7 @@ La plupart de mes dépôts sont privés : leur contenu ne se voit pas, mais leur
 - **Une veille écrite par des agents** : deux flux hebdomadaires produits par des pipelines d'agents Claude qui cherchent, trient, rédigent et publient seuls, sans retouche. [fmenguy.fr/blog/veille](https://fmenguy.fr/blog/veille/) · [code](https://github.com/fmenguy/veille-auto-multi-agent)
 - **Serveurs MCP** : [mcp-pilotage](https://github.com/fmenguy/mcp-pilotage) donne à un agent la carte de tous mes dépôts, un autre pilote ma chaîne de génération d'images (FastAPI, ComfyUI sur GPU loués).
 - **Écrire et illustrer** : L'Aventure des Sœurs Elfes, illustrée image par image avec ma propre chaîne de génération.
+- **Art génératif** : sous le nom de Wanda, je publie mes images sur [SeaArt](https://www.seaart.ai/user/531aa6f7e28e2ad661b3c20b32ff46f7?u_code=FDOJP29Z) et sur ma galerie [wanda-aiart.org](https://wanda-aiart.org), taguée avec [wanda-tagger](https://github.com/fmenguy/wanda-tagger), mon outil de tagging assisté par Claude.
 - **Recherche** : des notes et des sujets de recherche au format article scientifique, en français et en anglais (filigranes de texte, fiabilité d'une veille autonome, traçabilité des modèles, RAG, escalade), archivés sur Zenodo avec un DOI. [fmenguy.fr/recherche](https://fmenguy.fr/recherche/) · [ORCID](https://orcid.org/0009-0001-7625-4571)
 
 Tout est rassemblé sur [fmenguy.fr/ia](https://fmenguy.fr/ia) : comprendre, construire, aller plus loin (audit IA d'entreprise, distillation et fine-tuning, robotique et apprentissage par renforcement).
@@ -66,6 +68,7 @@ Tout est rassemblé sur [fmenguy.fr/ia](https://fmenguy.fr/ia) : comprendre, con
 
 | Projet | Ce que c'est | Pile |
 |---|---|---|
+| [wanda-tagger](https://github.com/fmenguy/wanda-tagger) | Interface locale pour taguer un dossier d'images, avec suggestions de Claude et tagging automatique, [démo en ligne](https://fmenguy.github.io/wanda-tagger/?lang=fr) | Python, Flask, API Claude |
 | [mcp-pilotage](https://github.com/fmenguy/mcp-pilotage) | Serveur MCP en lecture seule qui cartographie tous les dépôts de la machine pour les agents IA | TypeScript, SDK MCP |
 | [prompt](https://github.com/fmenguy/prompt) | Générateur de prompts Stable Diffusion réécrits par Mistral, [en ligne](https://aiprompt.fmenguy.fr) | React, Vite, Vercel |
 | [jeux-fmenguy](https://github.com/fmenguy/jeux-fmenguy) | Arcade FM, mes jeux navigateur, [en ligne](https://jeux.fmenguy.fr) | Astro, React, Canvas, Three.js |
@@ -112,6 +115,7 @@ Most of my repositories are private: you can't see their content, but you can se
 - **A tech watch written by agents**: two weekly feeds produced by pipelines of Claude agents that search, sort, write and publish on their own, with no human edits. [fmenguy.fr/blog/veille](https://fmenguy.fr/blog/veille/) · [code](https://github.com/fmenguy/veille-auto-multi-agent)
 - **MCP servers**: [mcp-pilotage](https://github.com/fmenguy/mcp-pilotage) gives an agent a map of all my repositories, another one drives my image generation pipeline (FastAPI, ComfyUI on rented GPUs).
 - **Writing and illustrating**: L'Aventure des Sœurs Elfes, illustrated image by image with my own generation pipeline.
+- **Generative art**: as Wanda, I publish my images on [SeaArt](https://www.seaart.ai/user/531aa6f7e28e2ad661b3c20b32ff46f7?u_code=FDOJP29Z) and in my gallery [wanda-aiart.org](https://wanda-aiart.org), tagged with [wanda-tagger](https://github.com/fmenguy/wanda-tagger), my Claude-assisted tagging tool.
 - **Research**: research notes and research proposals written as scientific papers, in French and English (text watermarking, reliability of an autonomous news pipeline, AI model traceability, RAG, climbing), archived on Zenodo with a DOI. [fmenguy.fr/research](https://fmenguy.fr/research/) · [ORCID](https://orcid.org/0009-0001-7625-4571)
 
 It all comes together on [fmenguy.fr/ia](https://fmenguy.fr/ia): understand, build, go further (AI audits for companies, distillation and fine-tuning, robotics and reinforcement learning).
@@ -133,6 +137,7 @@ It all comes together on [fmenguy.fr/ia](https://fmenguy.fr/ia): understand, bui
 
 | Project | What it is | Stack |
 |---|---|---|
+| [wanda-tagger](https://github.com/fmenguy/wanda-tagger) | Local web UI to tag a folder of images, with Claude suggestions and batch auto-tagging, [live demo](https://fmenguy.github.io/wanda-tagger/) | Python, Flask, Claude API |
 | [mcp-pilotage](https://github.com/fmenguy/mcp-pilotage) | Read-only MCP server that maps every repository on the machine for AI agents | TypeScript, MCP SDK |
 | [prompt](https://github.com/fmenguy/prompt) | Stable Diffusion prompt generator, rewritten by Mistral, [live](https://aiprompt.fmenguy.fr) | React, Vite, Vercel |
 | [jeux-fmenguy](https://github.com/fmenguy/jeux-fmenguy) | Arcade FM, my browser games, [live](https://jeux.fmenguy.fr) | Astro, React, Canvas, Three.js |
