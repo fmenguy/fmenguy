@@ -69,6 +69,7 @@ Tout est rassemblé sur [fmenguy.fr/ia](https://fmenguy.fr/ia) : comprendre, con
 | Projet | Ce que c'est | Pile |
 |---|---|---|
 | [wanda-tagger](https://github.com/fmenguy/wanda-tagger) | Interface locale pour taguer un dossier d'images, avec suggestions de Claude et tagging automatique, [démo en ligne](https://fmenguy.github.io/wanda-tagger/?lang=fr) | Python, Flask, API Claude |
+| [wanda-convert](https://github.com/fmenguy/wanda-convert) | Outil web local pour convertir des images entre AVIF, JPG, PNG et WEBP et nettoyer leurs métadonnées (EXIF, GPS, prompts IA) | Python, Flask, Pillow |
 | [mcp-pilotage](https://github.com/fmenguy/mcp-pilotage) | Serveur MCP en lecture seule qui cartographie tous les dépôts de la machine pour les agents IA | TypeScript, SDK MCP |
 | [prompt](https://github.com/fmenguy/prompt) | Générateur de prompts Stable Diffusion réécrits par Mistral, [en ligne](https://aiprompt.fmenguy.fr) | React, Vite, Vercel |
 | [jeux-fmenguy](https://github.com/fmenguy/jeux-fmenguy) | Arcade FM, mes jeux navigateur, [en ligne](https://jeux.fmenguy.fr) | Astro, React, Canvas, Three.js |
@@ -138,6 +139,7 @@ It all comes together on [fmenguy.fr/ia](https://fmenguy.fr/ia): understand, bui
 | Project | What it is | Stack |
 |---|---|---|
 | [wanda-tagger](https://github.com/fmenguy/wanda-tagger) | Local web UI to tag a folder of images, with Claude suggestions and batch auto-tagging, [live demo](https://fmenguy.github.io/wanda-tagger/) | Python, Flask, Claude API |
+| [wanda-convert](https://github.com/fmenguy/wanda-convert) | Local web tool to convert images between AVIF, JPG, PNG and WEBP and strip their metadata (EXIF, GPS, AI prompts) | Python, Flask, Pillow |
 | [mcp-pilotage](https://github.com/fmenguy/mcp-pilotage) | Read-only MCP server that maps every repository on the machine for AI agents | TypeScript, MCP SDK |
 | [prompt](https://github.com/fmenguy/prompt) | Stable Diffusion prompt generator, rewritten by Mistral, [live](https://aiprompt.fmenguy.fr) | React, Vite, Vercel |
 | [jeux-fmenguy](https://github.com/fmenguy/jeux-fmenguy) | Arcade FM, my browser games, [live](https://jeux.fmenguy.fr) | Astro, React, Canvas, Three.js |
