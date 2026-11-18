@@ -194,17 +194,17 @@ It all comes together on [fmenguy.fr/ia](https://fmenguy.fr/ia): understand, bui
 | août 2026 | 345 |
 | sept. 2026 | 677 |
 | oct. 2026 | 1 434 |
-| nov. 2026 | 910 |
+| nov. 2026 | 922 |
 
 </details>
 
-**5 368 commits en douze mois**, dont la plupart dans des dépôts privés :
+**5 380 commits en douze mois**, dont la plupart dans des dépôts privés :
 
 | Projet | Dépôt | Commits (12 mois) | 30 derniers jours | Dernier commit |
 |---|---|---:|---:|---|
-| [Strates](https://strates.fmenguy.fr/) | privé | 1 947 | 478 | 17/11/2026 |
-| [fmenguy.fr](https://fmenguy.fr/) | privé | 461 | 94 | 14/11/2026 |
-| [Arcade FM](https://github.com/fmenguy/jeux-fmenguy) | public | 144 | 7 | 14/11/2026 |
+| [Strates](https://strates.fmenguy.fr/) | privé | 1 958 | 465 | 18/11/2026 |
+| [fmenguy.fr](https://fmenguy.fr/) | privé | 461 | 90 | 14/11/2026 |
+| [Arcade FM](https://github.com/fmenguy/jeux-fmenguy) | public | 145 | 8 | 17/11/2026 |
 | [Wanda AI Art](https://wanda-aiart.org/) | privé | 122 | 4 | 14/11/2026 |
 | [Les Sœurs Elfes](https://elfes.fmenguy.fr/) | privé | 119 | 13 | 09/11/2026 |
 | [menguygen](https://github.com/fmenguy/menguygen) | public | 41 | 2 | 14/11/2026 |
@@ -217,7 +217,7 @@ It all comes together on [fmenguy.fr/ia](https://fmenguy.fr/ia): understand, bui
 | [Veille multi-agents](https://github.com/fmenguy/veille-auto-multi-agent) | public | 6 | 2 | 09/11/2026 |
 | [wanda-tagger](https://github.com/fmenguy/wanda-tagger) | public | 3 | 3 | 14/11/2026 |
 | [wanda-convert](https://github.com/fmenguy/wanda-convert) | public | 1 | 1 | 14/11/2026 |
-| 19 autres projets | privés | 2 449 | 587 | 16/11/2026 |
+| 19 autres projets | privés | 2 449 | 563 | 16/11/2026 |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="stats/langages-sombre.svg">
@@ -241,7 +241,7 @@ It all comes together on [fmenguy.fr/ia](https://fmenguy.fr/ia): understand, bui
 
 </details>
 
-<sub>Calculé chaque jour par [une GitHub Action](.github/workflows/activite.yml) avec un jeton en lecture seule. Dernière mise à jour : 17/11/2026.</sub>
+<sub>Calculé chaque jour par [une GitHub Action](.github/workflows/activite.yml) avec un jeton en lecture seule. Dernière mise à jour : 18/11/2026.</sub>
 <!-- ACTIVITE:FIN -->
 
 <picture>
