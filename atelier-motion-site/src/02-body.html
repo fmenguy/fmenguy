@@ -1,0 +1,101 @@
+<div class="wrap">
+  <header class="mast">
+    <div class="mast-id">
+      <span class="glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <div>
+        <h1>Atelier Motion Site</h1>
+        <p>Décrivez une marque et ses visuels. Vous repartez avec un prompt complet, à coller dans n'importe quelle IA de code, et un aperçu vivant de la page.</p>
+      </div>
+    </div>
+    <div class="mast-tpl" role="group" aria-label="Gabarits préremplis">
+      <span class="lbl">Gabarits</span>
+      <button class="btn" id="tpl-bunto" type="button">BUNTO</button>
+      <button class="btn" id="tpl-maison" type="button">Maison Edit</button>
+      <button class="btn ghost" id="tpl-blank" type="button">Vierge</button>
+    </div>
+  </header>
+
+  <div class="viewswitch" role="tablist" aria-label="Vue">
+    <button type="button" role="tab" id="vs-form" aria-selected="true">Formulaire</button>
+    <button type="button" role="tab" id="vs-out" aria-selected="false">Résultat</button>
+  </div>
+
+  <main class="cols">
+    <section class="sheet" aria-label="Formulaire en six étapes">
+      <ol class="steps" id="steps"></ol>
+      <div class="panel" id="panel"></div>
+      <div class="stepnav">
+        <button class="btn" id="prev" type="button">Précédent</button>
+        <span id="stepcount"></span>
+        <button class="btn primary" id="next" type="button">Suivant</button>
+      </div>
+    </section>
+
+    <section class="desk" aria-label="Résultat">
+      <div class="tabs" role="tablist" aria-label="Résultat">
+        <button type="button" role="tab" id="tab-prompt" aria-controls="pane-prompt" aria-selected="true">Prompt <span class="badge" id="sec-count">0 / 15</span></button>
+        <button type="button" role="tab" id="tab-check" aria-controls="pane-check" aria-selected="false">Validateur <span class="badge" id="issue-count">0</span></button>
+        <button type="button" role="tab" id="tab-view" aria-controls="pane-view" aria-selected="false">Aperçu</button>
+      </div>
+
+      <div class="pane" id="pane-prompt" role="tabpanel" aria-labelledby="tab-prompt">
+        <div class="bar">
+          <div class="grp">
+            <button class="btn primary sm" id="copy" type="button">Copier</button>
+            <button class="btn sm" id="dl-md" type="button">Télécharger .md</button>
+            <button class="btn sm ghost" id="regen" type="button" hidden>Annuler mes retouches</button>
+          </div>
+          <span class="dims" id="prompt-size"></span>
+        </div>
+        <div class="secmap" id="secmap" aria-label="Sections présentes dans le prompt"></div>
+        <label class="f"><span>Prompt généré, modifiable à la main avant copie</span>
+          <textarea id="prompt-out" spellcheck="false"></textarea></label>
+      </div>
+
+      <div class="pane" id="pane-check" role="tabpanel" aria-labelledby="tab-check" hidden>
+        <div class="summary" id="check-summary"></div>
+        <ul class="issues" id="issues"></ul>
+      </div>
+
+      <div class="pane" id="pane-view" role="tabpanel" aria-labelledby="tab-view" hidden>
+        <div class="bar">
+          <div class="grp" role="group" aria-label="Source de l'aperçu">
+            <button class="btn sm" id="src-demo" type="button" aria-pressed="true">Gabarit de démonstration</button>
+            <button class="btn sm" id="src-ai" type="button" aria-pressed="false">Page générée par Claude</button>
+          </div>
+          <div class="grp">
+            <button class="btn sm" id="vp-land" type="button" aria-pressed="true">Bureau</button>
+            <button class="btn sm" id="vp-port" type="button" aria-pressed="false">Mobile</button>
+            <button class="btn sm" id="vp-rm" type="button" aria-pressed="false">Mouvement réduit</button>
+            <button class="btn sm" id="vp-replay" type="button">Rejouer</button>
+            <button class="btn sm" id="vp-full" type="button">Agrandir</button>
+          </div>
+        </div>
+        <div class="stagebox land" id="stagebox"><div class="stage" id="stage"></div></div>
+        <div class="row" style="justify-content:space-between;margin-top:8px">
+          <span class="dims" id="view-dims"></span>
+          <span class="dims" id="view-note"></span>
+        </div>
+        <div class="gen" id="gen-demo">
+          <p>Ce gabarit est exécuté par l'outil avec vos réglages : mêmes formules, mêmes constantes et mêmes textes que le prompt.</p>
+          <div class="row"><button class="btn sm" id="dl-demo" type="button">Télécharger le gabarit .html</button></div>
+        </div>
+        <div class="gen" id="gen-ai" hidden>
+          <p id="ai-intro">Claude lit le prompt tel qu'il est affiché dans l'onglet Prompt et écrit la page. L'appel utilise votre propre compte Claude et dure souvent une à trois minutes.</p>
+          <div class="row">
+            <label class="f" style="flex-direction:row;align-items:center;gap:6px"><span>Modèle</span>
+              <select id="ai-tier"><option value="default">Équilibré</option><option value="complex">Avancé</option><option value="quick">Rapide</option></select></label>
+            <button class="btn primary sm" id="ai-go" type="button">Générer la page</button>
+            <button class="btn sm" id="ai-stop" type="button" hidden>Arrêter</button>
+            <button class="btn sm" id="dl-ai" type="button" hidden>Télécharger la page .html</button>
+            <button class="btn sm" id="copy-ai" type="button" hidden>Copier le code</button>
+          </div>
+          <div class="note" id="ai-status" hidden></div>
+          <div class="stream" id="ai-stream" hidden></div>
+          <ul class="issues" id="ai-issues"></ul>
+        </div>
+      </div>
+    </section>
+  </main>
+</div>
+<div id="toast" role="status" aria-live="polite"></div>
