@@ -194,30 +194,30 @@ It all comes together on [fmenguy.fr/ia](https://fmenguy.fr/ia): understand, bui
 | août 2026 | 345 |
 | sept. 2026 | 677 |
 | oct. 2026 | 1 434 |
-| nov. 2026 | 1 096 |
+| nov. 2026 | 1 213 |
 
 </details>
 
-**5 554 commits en douze mois**, dont la plupart dans des dépôts privés :
+**5 671 commits en douze mois**, dont la plupart dans des dépôts privés :
 
 | Projet | Dépôt | Commits (12 mois) | 30 derniers jours | Dernier commit |
 |---|---|---:|---:|---|
-| [Strates](https://strates.fmenguy.fr/) | privé | 2 117 | 576 | 20/11/2026 |
-| [fmenguy.fr](https://fmenguy.fr/) | privé | 472 | 95 | 21/11/2026 |
+| [Strates](https://strates.fmenguy.fr/) | privé | 2 203 | 656 | 22/11/2026 |
+| [fmenguy.fr](https://fmenguy.fr/) | privé | 485 | 100 | 22/11/2026 |
 | [Arcade FM](https://github.com/fmenguy/jeux-fmenguy) | public | 149 | 12 | 20/11/2026 |
 | [Wanda AI Art](https://wanda-aiart.org/) | privé | 122 | 4 | 14/11/2026 |
 | [Les Sœurs Elfes](https://elfes.fmenguy.fr/) | privé | 119 | 13 | 09/11/2026 |
 | [menguygen](https://github.com/fmenguy/menguygen) | public | 41 | 2 | 14/11/2026 |
-| [Cuisine](https://cuisine.fmenguy.fr/) | privé | 29 | 4 | 16/11/2026 |
+| [Cuisine](https://cuisine.fmenguy.fr/) | privé | 33 | 6 | 21/11/2026 |
 | [fmenguy](https://github.com/fmenguy/fmenguy) | public | 13 | 6 | 14/11/2026 |
 | [ClaudeTube](https://github.com/fmenguy/ClaudeTube) | public | 11 | 3 | 09/11/2026 |
+| [mcp-pilotage](https://github.com/fmenguy/mcp-pilotage) | public | 11 | 11 | 22/11/2026 |
 | [Bathyrêve](https://bathyreve.fmenguy.fr/) | privé | 9 | 1 | 09/11/2026 |
-| [mcp-pilotage](https://github.com/fmenguy/mcp-pilotage) | public | 7 | 7 | 16/11/2026 |
 | [Générateur de prompt](https://github.com/fmenguy/prompt) | public | 6 | 5 | 14/11/2026 |
 | [Veille multi-agents](https://github.com/fmenguy/veille-auto-multi-agent) | public | 6 | 2 | 09/11/2026 |
 | [wanda-tagger](https://github.com/fmenguy/wanda-tagger) | public | 3 | 3 | 14/11/2026 |
 | [wanda-convert](https://github.com/fmenguy/wanda-convert) | public | 1 | 1 | 14/11/2026 |
-| 19 autres projets | privés | 2 449 | 514 | 16/11/2026 |
+| 19 autres projets | privés | 2 459 | 518 | 22/11/2026 |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="stats/langages-sombre.svg">
@@ -229,10 +229,10 @@ It all comes together on [fmenguy.fr/ia](https://fmenguy.fr/ia): understand, bui
 
 | Langage | Part du code |
 |---|---:|
-| JavaScript | 51,2 % |
-| HTML | 17,1 % |
-| Astro | 9,8 % |
-| C# | 7,7 % |
+| JavaScript | 50,3 % |
+| HTML | 18,8 % |
+| Astro | 9,5 % |
+| C# | 7,5 % |
 | TypeScript | 5 % |
 | CSS | 3,6 % |
 | Python | 3,6 % |
@@ -241,7 +241,7 @@ It all comes together on [fmenguy.fr/ia](https://fmenguy.fr/ia): understand, bui
 
 </details>
 
-<sub>Calculé chaque jour par [une GitHub Action](.github/workflows/activite.yml) avec un jeton en lecture seule. Dernière mise à jour : 21/11/2026.</sub>
+<sub>Calculé chaque jour par [une GitHub Action](.github/workflows/activite.yml) avec un jeton en lecture seule. Dernière mise à jour : 22/11/2026.</sub>
 <!-- ACTIVITE:FIN -->
 
 <picture>
