@@ -85,7 +85,7 @@ Tout est rassemblé sur [fmenguy.fr/ia](https://fmenguy.fr/ia) : comprendre, con
 
 **[Arcade FM](https://jeux.fmenguy.fr/)** : tous mes jeux navigateur au même endroit. [Forge des Âges](https://jeux.fmenguy.fr/fda/), [Bathyrêve](https://bathyreve.fmenguy.fr/) (construction d'une cité sous-marine, jouable en démo), Achrogemme (duel de cartes tiré du roman, terminé en v1.0), et aussi Orbique, Eryndor, Zentel, le Jeu de la Vie et EcoSim.
 
-**[fmenguy.fr](https://fmenguy.fr)** : blog technique, dossiers de vulgarisation, outils, et la transparence sur le site lui-même (scores Lighthouse, coûts détaillés, changelog complet). Sans publicité ni contenu payant. Tout ce qui n'est pas tech vit dans [le cabanon](https://fmenguy.fr/cabanon/) et sur [cuisine.fmenguy.fr](https://cuisine.fmenguy.fr/).
+**[fmenguy.fr](https://fmenguy.fr)** : blog technique, dossiers de vulgarisation, outils, et la transparence sur le site lui-même (scores Lighthouse, coûts détaillés, changelog complet). Derniers outils, tout en données publiques : [les trains SNCF en direct](https://fmenguy.fr/outils/trains/) sur mes trajets (position estimée sur le vrai tracé des voies, retards en temps réel), [le LiDAR HD de l'IGN en 3D](https://fmenguy.fr/outils/carte/) et [une boîte à outils OSINT](https://fmenguy.fr/osint/). Sans publicité ni contenu payant. Tout ce qui n'est pas tech vit dans [le cabanon](https://fmenguy.fr/cabanon/) et sur [cuisine.fmenguy.fr](https://cuisine.fmenguy.fr/).
 
 ---
 
@@ -155,7 +155,7 @@ It all comes together on [fmenguy.fr/ia](https://fmenguy.fr/ia): understand, bui
 
 **[Arcade FM](https://jeux.fmenguy.fr/)**: all my browser games in one place. [Forge des Âges](https://jeux.fmenguy.fr/fda/), [Bathyrêve](https://bathyreve.fmenguy.fr/) (build an underwater city, playable demo), Achrogemme (a card duel drawn from the novel, finished at v1.0), plus Orbique, Eryndor, Zentel, the Game of Life and EcoSim.
 
-**[fmenguy.fr](https://fmenguy.fr)**: tech blog, explainers, tools, and full transparency about the site itself (Lighthouse scores, detailed costs, complete changelog). No ads, no paywalled content. Everything that isn't tech lives in [le cabanon](https://fmenguy.fr/cabanon/) (the shed) and on [cuisine.fmenguy.fr](https://cuisine.fmenguy.fr/) (cooking).
+**[fmenguy.fr](https://fmenguy.fr)**: tech blog, explainers, tools, and full transparency about the site itself (Lighthouse scores, detailed costs, complete changelog). Latest tools, all built on open data: [live SNCF trains](https://fmenguy.fr/outils/trains/) on the routes I travel (estimated position on the real track layout, real-time delays), [France's LiDAR HD survey in 3D](https://fmenguy.fr/outils/carte/) and [an OSINT toolbox](https://fmenguy.fr/osint/) (in French). No ads, no paywalled content. Everything that isn't tech lives in [le cabanon](https://fmenguy.fr/cabanon/) (the shed) and on [cuisine.fmenguy.fr](https://cuisine.fmenguy.fr/) (cooking).
 
 ---
 
