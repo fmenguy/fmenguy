@@ -194,19 +194,19 @@ It all comes together on [fmenguy.fr/ia](https://fmenguy.fr/ia): understand, bui
 | août 2026 | 345 |
 | sept. 2026 | 677 |
 | oct. 2026 | 1 434 |
-| nov. 2026 | 1 312 |
+| nov. 2026 | 1 342 |
 
 </details>
 
-**5 771 commits en douze mois**, dont la plupart dans des dépôts privés :
+**5 801 commits en douze mois**, dont la plupart dans des dépôts privés :
 
 | Projet | Dépôt | Commits (12 mois) | 30 derniers jours | Dernier commit |
 |---|---|---:|---:|---|
-| [Strates](https://strates.fmenguy.fr/) | privé | 2 251 | 704 | 24/11/2026 |
-| [fmenguy.fr](https://fmenguy.fr/) | privé | 506 | 121 | 23/11/2026 |
+| [Strates](https://strates.fmenguy.fr/) | privé | 2 281 | 734 | 24/11/2026 |
+| [fmenguy.fr](https://fmenguy.fr/) | privé | 506 | 117 | 23/11/2026 |
 | [Arcade FM](https://github.com/fmenguy/jeux-fmenguy) | public | 149 | 12 | 20/11/2026 |
 | [Wanda AI Art](https://wanda-aiart.org/) | privé | 122 | 4 | 14/11/2026 |
-| [Les Sœurs Elfes](https://elfes.fmenguy.fr/) | privé | 120 | 14 | 23/11/2026 |
+| [Les Sœurs Elfes](https://elfes.fmenguy.fr/) | privé | 120 | 4 | 23/11/2026 |
 | [menguygen](https://github.com/fmenguy/menguygen) | public | 41 | 2 | 14/11/2026 |
 | [Cuisine](https://cuisine.fmenguy.fr/) | privé | 34 | 7 | 23/11/2026 |
 | [fmenguy](https://github.com/fmenguy/fmenguy) | public | 14 | 7 | 23/11/2026 |
@@ -241,7 +241,7 @@ It all comes together on [fmenguy.fr/ia](https://fmenguy.fr/ia): understand, bui
 
 </details>
 
-<sub>Calculé chaque jour par [une GitHub Action](.github/workflows/activite.yml) avec un jeton en lecture seule. Dernière mise à jour : 24/11/2026.</sub>
+<sub>Calculé chaque jour par [une GitHub Action](.github/workflows/activite.yml) avec un jeton en lecture seule. Dernière mise à jour : 25/11/2026.</sub>
 <!-- ACTIVITE:FIN -->
 
 <picture>
